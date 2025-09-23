@@ -8,8 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abhinav-vishwkarmaa&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaecso-what-can-you-do-for-me" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 ## 🚀 Summary
 
 Final-year B.Tech CS student at **Dr. Ambedkar Institute of Technology for Handicapped** (CGPA: 7.4). I am a backend developer passionate about building robust, scalable systems, integrating payment gateways, and architecting seamless API solutions for platforms including React.

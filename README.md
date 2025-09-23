@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Abhinav+Vishwakarma+%F0%9F%91%8B;A+Passionate+Backend+Developer;Turning+Ideas+into+Scalable+Systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=700&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&multiline=true&lines=Hi+there,+I'm+Abhinav+Vishwakarma+👋;A+Passionate+Backend+Developer;Turning+Ideas+into+Scalable+Systems." alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,8 +13,6 @@
 ## 🚀 Summary
 
 Final-year B.Tech CS student at **Dr. Ambedkar Institute of Technology for Handicapped** (CGPA: 7.4). I am a backend developer passionate about building robust, scalable systems, integrating payment gateways, and architecting seamless API solutions for platforms including React.
-
----
 
 ## 🛠️ My Tech Stack
 

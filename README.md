@@ -9,6 +9,11 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=700&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&multiline=true&duration=4000&lines=Hi+there,+I'm+Abhinav+Vishwakarma+👋;A+Passionate+Backend+Developer;Turning+Ideas+into+Scalable+Systems." alt="Typing SVG" />
+  </a>
+</div>
 
 ## 🚀 Summary
 

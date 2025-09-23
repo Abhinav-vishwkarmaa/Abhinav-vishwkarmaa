@@ -1,80 +1,87 @@
-# 👋 Hi, I'm Abhinav Vishwakarma
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Abhinav+Vishwakarma+%F0%9F%91%8B;A+Passionate+Backend+Developer;Turning+Ideas+into+Scalable+Systems." alt="Typing SVG" />
+  </a>
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-vishwkarmaa&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Summary
 
-Final-year BTech CS student at **Dr. Ambedkar Institute of Technology for Handicapped** (CGPA: 7.4). Backend developer passionate about building scalable systems, integrating payment gateways, and seamless API integration (React included).
+Final-year B.Tech CS student at **Dr. Ambedkar Institute of Technology for Handicapped** (CGPA: 7.4). I am a backend developer passionate about building robust, scalable systems, integrating payment gateways, and architecting seamless API solutions for platforms including React.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ My Tech Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), Node.js, Express.js, Python, Django, React.js (API Integration)
-- **Databases:** MySQL, MongoDB
-- **API & Auth:** REST APIs, JWT Auth, WebSockets, OTP Auth, Third-party API integration
-- **Payments:** Paytm, Razorpay
-- **Dev Tools:** Git, Postman, AWS (EC2, S3 basics)
-- **Architecture:** MVC, scalability, security
-
----
-
-## 💼 Experience
-
-**Software Developer Intern**  
-_Apr 2025 - Aug 2025_
-- Supported dev, QA, UX teams
-- Backend route testing with Postman
-- Client-server testing, clean code
-
-**Backend Developer**  
-_Sep 2025 - Present_
-- Scalability & security solutions
-- Authored Python/JS code (Django, NodeJS)
-- API clients, third-party integrations
-- Web backends, debugging, database management
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,python,django&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,git,postman,vscode&theme=dark" />
+  </a>
+</p>
 
 ---
 
-## 🏆 Projects
+## 💼 Professional Experience
 
-### 🛒 [Zepto-like Grocery App Backend](https://github.com/rajendra180188/atozkirana)
-REST APIs for cart/checkout/payment, secure payment, order verification, PDF invoices.
+**Backend Developer** (_Sep 2025 - Present_)
+- Architected and implemented scalable & security-focused backend solutions.
+- Authored production-grade code in Python (Django) and JavaScript (Node.js).
+- Developed API clients and managed third-party service integrations.
+- Focused on web backend development, debugging, and database management.
 
-### 🏬 [E-Commerce API System](https://github.com/jpl-it-solution/api-ilb-mart)
-Product, category, order APIs; role-based access; OTP authentication.
-
-### 🤖 [Multimedia Chatbot](https://github.com/Abhinav-vishwkarmaa/multimedia-chatbot)
-Chatbot with multimedia/NLP features.
-
-### 💼 [3Wround1](https://github.com/Abhinav-vishwkarmaa/3Wround1) | [3W](https://github.com/Abhinav-vishwkarmaa/3W)
-Business-focused web platforms.
+**Software Developer Intern** (_Apr 2025 - Aug 2025_)
+- Collaborated with development, QA, and UX teams in an agile environment.
+- Performed rigorous backend route testing using Postman to ensure API integrity.
+- Ensured seamless client-server communication and maintained clean code standards.
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 My Projects
 
-[![Email](https://img.shields.io/badge/Email-abhinavvishwkarmaa52@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abhivishwkarmaa52@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
+| Project                                                                             | Description                                                                     |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 🛒 **[Zepto-like Grocery App Backend](https://github.com/rajendra180188/atozkirana)** | REST APIs for cart, checkout, and secure payments; order verification & PDF invoices.  |
+| 🏬 **[E-Commerce API System](https://github.com/jpl-it-solution/api-ilb-mart)** | APIs for products, categories, and orders with role-based access and OTP auth.    |
+| 🤖 **[Multimedia Chatbot](https://github.com/Abhinav-vishwkarmaa/multimedia-chatbot)** | An intelligent chatbot featuring rich multimedia and NLP capabilities.          |
+| 💼 **[3Wround1](https://github.com/Abhinav-vishwkarmaa/3Wround1)** & **[3W](https://github.com/Abhinav-vishwkarmaa/3W)** | Web platforms developed with a core focus on business functionality.          |
+
+---
+
+## 📈 My GitHub Stats & Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-vishwkarmaa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-vishwkarmaa&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Abhinav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-vishwkarmaa&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:abhinavvishwkarmaa52@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Facts & Interests
 
-- ♟️ Chess enthusiast
-- 📷 Photography lover
-- 💻 Exploring new frameworks
-
----
-
-> _“Turning ideas into scalable systems.”_
-
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav-vishwkarmaa&show_icons=true&hide_border=true&count_private=true&theme=radical)
+- ♟️ **Chess enthusiast:** Always thinking a few moves ahead.
+- 📷 **Photography lover:** Capturing life's moments through a lens.
+- 💻 **Lifelong learner:** Constantly exploring new frameworks and technologies.

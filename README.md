@@ -1,32 +1,45 @@
 # 👋 Hi, I'm Abhinav Vishwakarma
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"/>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Final-year BTech CS student** building **dynamic, scalable, and interactive backends** with React integration.  
-💡 Passionate about **APIs, security, and seamless UX**.
+I'm a **Final-year BTech CS student** focused on building **dynamic, scalable backends** with React integration.  
+💡 Passionate about **APIs, security, and seamless user experiences**.
 
-![3D Tech Animation](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)  
-*Your tech world in 3D!*
+<div align="center">
+  <div style="display:inline-block;padding:20px;margin:10px;background:linear-gradient(145deg,#00f,#0ff);border-radius:15px;box-shadow: 10px 10px 30px rgba(0,0,0,0.5);transform: rotateX(15deg) rotateY(15deg);">
+    <b>Interactive Backend & APIs</b>
+  </div>
+</div>
 
 ---
 
 ## 🛠️ Skills
 
+<div align="center">
+
 | Frontend & Backend | Databases | Tools & DevOps | Auth & Payments |
 |------------------|----------|---------------|----------------|
 | JavaScript (ES6+), Node.js, Express.js, React.js, Python, Django | MySQL, MongoDB | Git, Postman, AWS EC2/S3 | JWT Auth, OTP, Razorpay, Paytm |
 
-![Dynamic Skills](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+</div>
+
+<div align="center">
+  <div style="display:inline-block;padding:15px;margin:10px;background:linear-gradient(135deg,#ff8c00,#ffd700);border-radius:15px;box-shadow: 8px 8px 20px rgba(0,0,0,0.3);transform: rotateX(10deg) rotateY(10deg);">
+    💻 Fullstack & Scalable Architecture
+  </div>
+</div>
 
 ---
 
@@ -62,8 +75,14 @@ Business-focused web platforms.
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-abhinavvishwkarmaa52@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhivishwkarmaa52@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](#)
+<div align="center">
+  <a href="mailto:abhivishwkarmaa52@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhinavvishwkarmaa52@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
@@ -73,6 +92,8 @@ Business-focused web platforms.
 - 📷 Photography lover  
 - 💻 Exploring **new frameworks & tech**  
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav-vishwkarmaa&show_icons=true&hide_border=true&count_private=true&theme=radical)
+---
 
-![3D Wave Animation](https://media.giphy.com/media/3o7aD6KlbGA8jFpJdO/giphy.gif)
+<div align="center">
+  ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav-vishwkarmaa&show_icons=true&hide_border=true&count_private=true&theme=radical)
+</div>

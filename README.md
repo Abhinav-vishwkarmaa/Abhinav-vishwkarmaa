@@ -97,3 +97,32 @@ Business-focused web platforms.
 <div align="center">
   ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav-vishwkarmaa&show_icons=true&hide_border=true&count_private=true&theme=radical)
 </div>
+
+<div align="center">
+  <svg width="250" height="250" viewBox="0 0 250 250">
+    <defs>
+      <radialGradient id="grad" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" style="stop-color:#00f;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0ff;stop-opacity:1" />
+      </radialGradient>
+    </defs>
+    <g transform="translate(125,125)">
+      <circle r="100" fill="url(#grad)" />
+      <text x="0" y="-80" font-size="14" fill="#fff" text-anchor="middle">JavaScript</text>
+      <text x="70" y="-40" font-size="14" fill="#fff" text-anchor="middle">Node.js</text>
+      <text x="80" y="30" font-size="14" fill="#fff" text-anchor="middle">React.js</text>
+      <text x="-60" y="60" font-size="14" fill="#fff" text-anchor="middle">Express.js</text>
+      <text x="-80" y="-20" font-size="14" fill="#fff" text-anchor="middle">MongoDB</text>
+      <text x="0" y="90" font-size="14" fill="#fff" text-anchor="middle">MySQL</text>
+      <text x="-50" y="-70" font-size="14" fill="#fff" text-anchor="middle">AWS</text>
+    </g>
+    <animateTransform 
+      attributeName="transform" 
+      type="rotate" 
+      from="0 125 125" 
+      to="360 125 125" 
+      dur="20s" 
+      repeatCount="indefinite"/>
+  </svg>
+</div>
+

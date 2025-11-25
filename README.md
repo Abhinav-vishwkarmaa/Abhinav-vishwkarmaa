@@ -79,10 +79,6 @@ I'm a passionate **Backend & Full Stack Developer** and final-year B.Tech CS stu
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhinav-vishwkarmaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ## ⚡ Fun Facts & Interests
 

@@ -1,71 +1,115 @@
 <div align="center">
-  <h1>👋 Hi, I'm Abhinav Vishwakarma</h1>
-  <h3>🌟 Backend & Full Stack Developer</h3>
-  <p>🚀 Building scalable, robust backend systems with Node.js, Django, React.js, and Flutter</p>
+  <h1>👋 Hi, I'm <span style="color:#56b6c2">Abhinav Vishwakarma</span></h1>
+  <h3>🚀 Backend Developer | Node.js • Express • REST APIs</h3>
+  <p>Designing scalable backend systems with high performance, security, and reliability</p>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/abhinav-vishwakarma">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abhinavvishwkarmaa52@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:abhivishwkarmaa52@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-xi-eight-95.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  <a href="https://github.com/Abhinav-vishwkarmaa">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-I'm a passionate **Backend & Full Stack Developer** and final-year B.Tech CS student at **Dr. Ambedkar Institute of Technology for Handicapped** (CGPA: 7.4), based in Bangalore, India. I specialize in architecting scalable backend systems, integrating payment gateways, and building seamless API solutions with **Node.js**, **Django**, **React.js**, and **Flutter**. I love solving complex problems, optimizing performance, and exploring innovative tools to bring ideas to life! 🌍
 
-- 💡 **Expertise**: Backend Architecture, API Design, Payment Gateway Integration, Database Management
-- 🎮 **Interests**: Technology Innovation, Competitive Gaming, Chess, Photography
-- 📍 **Location**: Bangalore, India
+Backend Developer with experience building **scalable backend architectures**, **secure REST APIs**, **payment integrations**, and **cloud deployments**. I focus on backend reliability, performance, and database optimization for **e-commerce and business platforms**.
+
+🎓 Final-year B.Tech CSE student at **Dr. Ambedkar Institute of Technology for Handicapped, Kanpur** (CGPA: **7.4**)  
+📍 Based in India • Open to full-time backend roles
+
+### 💡 What I Do
+- Backend engineering with **Node.js**, **Express.js**
+- REST API design, JWT Auth, RBAC, MVC
+- Payment gateways: **Razorpay, Paytm**, webhook flows
+- MySQL & MongoDB schema design + query optimization
+- AWS EC2, S3, CDNs, Linux server deployments
+- Real-time notifications (FCM), automated emails
 
 ---
 
 ## 💼 Professional Experience
 
-**Backend Developer** (_Sep 2025 - Present_)
-- Architected and implemented scalable & security-focused backend solutions
-- Authored production-grade code in Python (Django) and JavaScript (Node.js)
-- Developed API clients and managed third-party service integrations
-- Focused on web backend development, debugging, and database management
+### **Backend Developer — Remote**  
+**Sep 2025 – Present**  
+- Maintain scalable backend services using Node.js & Express.js  
+- Optimize server performance, API throughput, and security controls  
+- Integrate payment providers with validation, logs & webhook flows  
+- Design MySQL/MongoDB schemas for low-latency workloads  
+- Debug, profile & tune backend performance  
+- Write server logic in JavaScript & Python (Django utilities)
 
-**Software Developer Intern** (_Apr 2025 - Aug 2025_)
-- Collaborated with development, QA, and UX teams in an agile environment
-- Performed rigorous backend route testing using Postman to ensure API integrity
-- Ensured seamless client-server communication and maintained clean code standards
+### **Software Developer Intern — Remote**  
+**Apr 2025 – Aug 2025**  
+- Built modular MVC backend modules in Node.js  
+- Verified APIs with Postman and collaborated with QA  
+- Integrated Razorpay & Paytm secure flows with webhooks  
+- Implemented JWT authentication & role-based authorization  
+- Reduced API response time by diagnosing communication issues  
+- Assisted in deployment & production release workflows
 
 ---
 
 ## 🏆 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🛒 **[Zepto-like Grocery App Backend](https://github.com/rajendra180188/atozkirana)** | REST APIs for cart, checkout, and secure payments; order verification & PDF invoices |
-| 🏬 **[E-Commerce API System](https://github.com/jpl-it-solution/api-ilb-mart)** | APIs for products, categories, and orders with role-based access and OTP auth |
-| 🤖 **[Multimedia Chatbot](https://github.com/Abhinav-vishwkarmaa/multimedia-chatbot)** | An intelligent chatbot featuring rich multimedia and NLP capabilities |
-| 💼 **[3Wround1](https://github.com/Abhinav-vishwkarmaa/3Wround1)** & **[3W](https://github.com/Abhinav-vishwkarmaa/3W)** | Web platforms developed with a core focus on business functionality |
+|--------|-------------|
+| 🛍️ **E-Commerce Backend System** | Modular backend with products, cart, checkout, admin services. Razorpay & Paytm integrations, webhooks, FCM notifications, JWT + RBAC. |
+| 🏢 **Company Portfolio & Careers Platform** | Backend for job postings, applications, contact forms, email automation, admin CMS APIs (Node.js + MySQL). |
+| 🤖 **Multimedia Chatbot** | NLP-powered chatbot with multimedia support. |
+| 🛒 **Zepto-like Grocery App Backend** | REST APIs for carts, orders, payments, and PDF invoices. |
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 💻 Tech Stack
+
+### **Backend & APIs**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-green?style=for-the-badge)
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Cloud | DevOps | Server**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### **Payments & Notifications**
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge)
+![Paytm](https://img.shields.io/badge/Paytm-20336B?style=for-the-badge)
+![FCM](https://img.shields.io/badge/FCM-orange?style=for-the-badge)
+
+### **Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhinav-vishwkarmaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhinav-vishwkarmaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-vishwkarmaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Abhinav-vishwkarmaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Abhinav-vishwkarmaa&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-vishwkarmaa&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -79,16 +123,16 @@ I'm a passionate **Backend & Full Stack Developer** and final-year B.Tech CS stu
 
 ---
 
-
-## ⚡ Fun Facts & Interests
-
-- ♟️ **Chess enthusiast:** Always thinking a few moves ahead
-- 📷 **Photography lover:** Capturing life's moments through a lens
-- 🎮 **Competitive gamer:** Passionate about technology and gaming
-- 💻 **Lifelong learner:** Constantly exploring new frameworks and technologies
+## ⚡ Fun Facts
+- ♟️ Chess enthusiast  
+- 📸 Photography lover  
+- 🎮 Competitive gamer  
+- 🌱 Lifelong learner exploring backend scalability & cloud systems  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Abhinav-vishwkarmaa&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with passion for code -->
+[![](https://visitcount.itsvg.in/api?id=Abhinav-vishwakarma&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>

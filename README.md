@@ -3,7 +3,7 @@
   <h3>🚀 Backend Developer • Node.js • Express • REST APIs</h3>
   <p>Crafting scalable, secure, high-performance backend systems</p>
 
-  <a href="https://www.linkedin.com/in/abhinav-vishwakarma">
+  <a href="[https://www.linkedin.com/in/abhinav-vishwakarma](https://www.linkedin.com/in/abhinav-vishwakarma-924a4525b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhivishwkarmaa52@gmail.com">
